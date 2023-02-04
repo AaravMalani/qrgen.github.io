@@ -1,4 +1,4 @@
-# QRgen.github.io
+# qrgen.github.io
 <!DOCTYPE html>
 <html>
 <head>
