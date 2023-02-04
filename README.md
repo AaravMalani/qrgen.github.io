@@ -12,7 +12,8 @@
     <p>Enter your text or URL</p>
     <input type="text" placeholder="Text or URL" id="qrText">
     <div id="imgBox">
-        <img src="" id="qrImage">
+        <img src="![image](https://user-images.githubusercontent.com/94593299/216765497-b80d15ac-1b7d-4a57-b7d9-8d734d789aae.png)
+" id="qrImage">
     </div>
     <button onclick="generateQR()">Generate QR Code</button>
 </div>
